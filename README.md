@@ -25,4 +25,4 @@
 ### Bước 1: Clone Repository
 Mở terminal và chạy lệnh sau để sao chép repository về máy tính của bạn:
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/W1ND-VS/B2110054.git
